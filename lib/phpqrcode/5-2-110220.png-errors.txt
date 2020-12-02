@@ -1,0 +1,20 @@
+2020-02-11 04:35:36: empty string!!!2020-02-11 04:40:19: empty string!!!2020-02-11 04:42:43: empty string!!!2020-02-11 04:43:26: empty string!!!2020-02-11 04:44:09: empty string!!!2020-02-11 04:44:23: empty string!!!2020-02-11 04:44:53: empty string!!!2020-02-11 04:46:58: empty string!!!2020-02-11 04:48:06: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, array given in <b>C:\xampp\htdocs\absensi\lib\phpqrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\absensi\lib\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\absensi\lib\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\absensi\lib\phpqrcode\qrinput.php</b> on line <b>594</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\absensi\lib\phpqrcode\qrinput.php</b> on line <b>688</b><br />
+2020-02-11 04:48:38: <br />
+<b>Warning</b>:  strlen() expects parameter 1 to be string, array given in <b>C:\xampp\htdocs\absensi\lib\phpqrcode\qrsplit.php</b> on line <b>250</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\absensi\lib\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\absensi\lib\phpqrcode\qrinput.php</b> on line <b>522</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\absensi\lib\phpqrcode\qrinput.php</b> on line <b>594</b><br />
+<br />
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>C:\xampp\htdocs\absensi\lib\phpqrcode\qrinput.php</b> on line <b>688</b><br />
